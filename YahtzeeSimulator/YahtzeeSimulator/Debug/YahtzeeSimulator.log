@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\wizar\source\repos\YahtzeeSimulator\YahtzeeSimulator\Source.cpp(121,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wizar\source\repos\YahtzeeSimulator\YahtzeeSimulator\Source.cpp(126,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wizar\source\repos\YahtzeeSimulator\YahtzeeSimulator\Source.cpp(319,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wizar\source\repos\YahtzeeSimulator\YahtzeeSimulator\Source.cpp(321,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wizar\source\repos\YahtzeeSimulator\YahtzeeSimulator\Source.cpp(331,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wizar\source\repos\YahtzeeSimulator\YahtzeeSimulator\Source.cpp(366,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wizar\source\repos\YahtzeeSimulator\YahtzeeSimulator\Source.cpp(381,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\wizar\source\repos\YahtzeeSimulator\YahtzeeSimulator\Source.cpp(409,21): warning C4018: '>': signed/unsigned mismatch
+C:\Users\wizar\source\repos\YahtzeeSimulator\YahtzeeSimulator\Source.cpp(440,20): warning C4018: '>': signed/unsigned mismatch
+C:\Users\wizar\source\repos\YahtzeeSimulator\YahtzeeSimulator\Source.cpp(468,21): warning C4018: '>': signed/unsigned mismatch
+C:\Users\wizar\source\repos\YahtzeeSimulator\YahtzeeSimulator\Source.cpp(520,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\wizar\source\repos\YahtzeeSimulator\YahtzeeSimulator\Source.cpp(594,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  YahtzeeSimulator.vcxproj -> C:\Users\wizar\source\repos\YahtzeeSimulator\Debug\YahtzeeSimulator.exe
